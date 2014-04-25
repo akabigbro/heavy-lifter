@@ -1,0 +1,2 @@
+class HeavyLifterTest
+end
